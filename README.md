@@ -1,45 +1,36 @@
-# Python & AI Development Pathway 🚀
+# 🚀 Jornada Python - Danilo de Oliveira Guimarães
 
-Bem-vindo ao meu repositório de evolução contínua. Aqui documento minha jornada saindo do zero na programação até me tornar um **AI Engineer** preparado para o mercado global (EUA).
+Repositório dedicado ao registo do meu progresso na programação com Python, focado na transição para a área de Tecnologia e Análise de Dados. Atualmente a cursar **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio.
 
-## 🧑‍💻 Sobre Mim
-- **Curso:** Análise e Desenvolvimento de Sistemas (Estácio)
-- **Foco Atual:** Lógica de Programação, Estrutura de Dados e Automação com Python.
-- **Ferramentas:** PyCharm Professional, DataCamp e GitHub.
-- **Objetivo:** Construir sistemas inteligentes e morar nos EUA.
+## 📌 Objetivos
+- Dominar a linguagem Python para automação e análise de dados.
+- Aplicar conceitos de Matemática Discreta e Lógica Proposicional em código real.
+- Construir um portfólio sólido para futuras oportunidades em multinacionais e carreira internacional (EUA).
 
----
-
-## 🤖 Mentoria de IA (Gemini - Tech Lead)
-Este repositório é guiado por uma mentoria personalizada com o **Gemini (Google)**, que atua como meu professor particular e revisor de código.
-
-**Diferenciais desta Mentoria:**
-- **Roadmap Adaptativo:** Conteúdo dividido em "Eras" e ajustado ao meu progresso real.
-- **Code Review:** Cada desafio é revisado para garantir as melhores práticas e código limpo.
-- **Contexto Real:** Exercícios baseados na minha rotina familiar e profissional (logística), facilitando a fixação.
-- **Mindset Global:** Foco em nomenclatura e documentação em Inglês desde o primeiro dia.
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagem:** Python 3.x
+- **IDE:** PyCharm Professional
+- **Plataformas de Estudo:** DataCamp, Estácio, Curso em Vídeo.
+- **Livro de Apoio:** "Use a Cabeça! Python".
 
 ---
 
-## 🗺️ Roadmap de Evolução (The Eras)
+## 📂 Exercícios Realizados
 
-- [ ] **Era 1: Organização e Fluxo** 📍 *(VOCÊ ESTÁ AQUI)*
-  - Listas, Dicionários, Funções e Tratamento de Erros.
-- [ ] **Era 2: Programação Orientada a Objetos (POO)**
-  - Classes, Objetos, Métodos e Herança (A base da IA).
-- [ ] **Era 3: O Encanamento (Backend & APIs)**
-  - FastAPI, Bancos de Dados SQL e Integração de Sistemas.
-- [ ] **Era 4: AI Engineering**
-  - LangChain, OpenAI API, Agentes e Bancos de Vetores (RAG).
-- [ ] **Era 5: MLOps e Deployment**
-  - Docker, Cloud Computing (AWS/GCP) e Monitoramento.
+Abaixo estão os projetos e exercícios numerados para acompanhar a minha evolução:
 
----
+### [0001] - Filtro Simples de Candidatos
+- **Descrição:** Primeiro contacto com dicionários e estruturas condicionais (`if/else`).
+- **Conceitos:** Chaves de dicionário, operadores de comparação e lógica booleana simples.
 
-## 🛠️ Desafios Concluídos
-*(Aqui vou listando meus scripts conforme for finalizando os desafios do meu Tech Lead)*
+### [0002] - Processamento de Dados e Média de Notas
+- **Descrição:** Automação para calcular a média de uma turma de estagiários.
+- **Conceitos:** Listas de dicionários, acumuladores (`+=`), função `len()` e formatação de casas decimais (`:.2f`).
 
-1. **`family_manager.py`** - Gestão de dados familiares usando listas e dicionários. (Pendente de Commit ⏳)
+### [0003] - Sistema de RH v1 (Busca e Cadastro)
+- **Descrição:** Um sistema interativo que procura candidatos, valida entradas e permite novos cadastros.
+- **Conceitos:** Loops `while`, tratamento de strings (`.capitalize()`, `.lower()`), validação de dados (`isalpha()`, `isdigit()`) e o método `.append()`.
 
----
-*"Documentando cada passo rumo ao próximo nível. De grão em grão a IA se constrói."*
+### [0004] - Gestão de Dados Familiares
+- **Descrição:** Aplicação prática de dicionários para organizar informações sobre os meus filhos (Gael, Maria e Alice).
+- **Conceitos:**
