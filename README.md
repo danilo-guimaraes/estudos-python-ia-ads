@@ -1,36 +1,38 @@
-# 🚀 Jornada Python - Danilo de Oliveira Guimarães
+🚀 Jornada Python - Danilo de Oliveira Guimarães
+Repositório dedicado ao registro do meu progresso na programação com Python, focado na transição para a área de Tecnologia e Análise de Dados. Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) na Estácio.
 
-Repositório dedicado ao registo do meu progresso na programação com Python, focado na transição para a área de Tecnologia e Análise de Dados. Atualmente a cursar **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio.
+📌 Objetivos
+Dominar a linguagem Python para automação e análise de dados.
 
-## 📌 Objetivos
-- Dominar a linguagem Python para automação e análise de dados.
-- Aplicar conceitos de Matemática Discreta e Lógica Proposicional em código real.
-- Construir um portfólio sólido para futuras oportunidades em multinacionais e carreira internacional (EUA).
+Aplicar conceitos de Matemática Discreta e Lógica Proposicional em código real.
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagem:** Python 3.x
-- **IDE:** PyCharm Professional
-- **Plataformas de Estudo:** DataCamp, Estácio, Curso em Vídeo.
-- **Livro de Apoio:** "Use a Cabeça! Python".
+Construir um portfólio sólido para futuras oportunidades em multinacionais e carreira internacional (EUA).
 
----
+🤖 Como eu treino com IA (Mentor Gemini)
+Este repositório reflete um método de Aprendizado Ativo. Eu utilizo o Gemini como um mentor técnico, seguindo este fluxo:
 
-## 📂 Exercícios Realizados
+Desafio por Contexto: Solicito exercícios baseados em cenários reais (RH, Logística, Finanças) para simular o dia a dia de uma empresa.
 
-Abaixo estão os projetos e exercícios numerados para acompanhar a minha evolução:
+Lógica "Fogo nos Dedos": A IA me fornece os requisitos e eu construo a solução do zero no PyCharm Pro, sem copiar código pronto.
 
-### [0001] - Filtro Simples de Candidatos
-- **Descrição:** Primeiro contacto com dicionários e estruturas condicionais (`if/else`).
-- **Conceitos:** Chaves de dicionário, operadores de comparação e lógica booleana simples.
+Refatoração e Code Review: Após concluir, peço uma análise técnica para identificar melhorias em Performance e Clean Code, garantindo que a solução final seja profissional.
 
-### [0002] - Processamento de Dados e Média de Notas
-- **Descrição:** Automação para calcular a média de uma turma de estagiários.
-- **Conceitos:** Listas de dicionários, acumuladores (`+=`), função `len()` e formatação de casas decimais (`:.2f`).
+Alinhamento Acadêmico: Cada treino é validado para garantir que estou aplicando os temas da faculdade (Estácio).
 
-### [0003] - Sistema de RH v1 (Busca e Cadastro)
-- **Descrição:** Um sistema interativo que procura candidatos, valida entradas e permite novos cadastros.
-- **Conceitos:** Loops `while`, tratamento de strings (`.capitalize()`, `.lower()`), validação de dados (`isalpha()`, `isdigit()`) e o método `.append()`.
+🛠️ Tecnologias e Ferramentas
+Linguagem: Python 3.x
 
-### [0004] - Gestão de Dados Familiares
-- **Descrição:** Aplicação prática de dicionários para organizar informações sobre os meus filhos (Gael, Maria e Alice).
-- **Conceitos:**
+IDE: PyCharm Professional
+
+Plataformas: DataCamp, Estácio, Curso em Vídeo.
+
+Apoio: Livro "Use a Cabeça! Python".
+
+📂 Organização dos Exercícios
+Os exercícios estão numerados e organizados por evolução técnica:
+
+[0001 - 0004]: Fundamentos, Dicionários e Estruturas de Dados.
+
+[0005 - 0007]: Manipulação de Listas, Automação de Folha, Sorting (Lambda) e Slicing.
+
+[0008+]: (Em progresso) Métricas Estatísticas, Cálculos de Performance e Análise de Dados.
